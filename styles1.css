@@ -1,0 +1,39 @@
+
+header {
+    background: white;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size:50;
+}
+body {
+    font-family: cursive ;
+    margin: 10;
+    padding: 10;
+    background-color: lavender;
+    text-align: center;
+}
+p1 {
+background-color: black;
+color: red;
+text-align: center;
+}
+p2 {
+background-color: Black;
+color: red;
+text-align: center;
+}
+p3 {
+background-color: black;
+color: red;
+text-align: center;
+}
+
+
+.btn {
+    background: Black;
+    color: Lavender;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+}
